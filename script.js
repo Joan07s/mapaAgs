@@ -1,4 +1,4 @@
-// Inicializar el mapa centrado en Aguascalientes
+// Inicializar el mapa 
 var map = L.map('map').setView([21.88234, -102.28259], 13);
 
 // Añadir capa de OpenStreetMap
